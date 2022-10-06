@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python programming and web developement.
 - 💞️ I’m looking to collaborate on both Python and Web developement.
-- 📫 How to reach me; Email-> stanlwymuuo091@gmail.com
+- 📫 How to reach me; Email-> stanleymuuo091@gmail.com
 
 <!---
 stanke11/stanke11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
